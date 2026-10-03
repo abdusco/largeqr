@@ -1,0 +1,5 @@
+/largeqr-arm64
+/largeqr-x86_64
+/release/
+/binaries/
+.DS_Store
